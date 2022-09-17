@@ -1,0 +1,46 @@
+#first-div {
+    padding: 5px;
+    border: solid black;
+    border-width: 2px;
+    display: flex;
+    align-items: flex-end;
+    box-sizing: border-box;
+}
+
+#purple-rectangle {
+
+    background: purple;
+    height: 60px;
+    width: 20px
+}
+
+#green-rectangle {
+    background: green;
+    height: 100px;
+    width: 200px;
+    margin: 0 20px;
+}
+
+#blue-circle {
+    background-color: lightseagreen;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#second-div {
+    margin-top: 20px;
+    padding: 30px;
+    border: dotted black;
+    border-width: 2px;
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+#yellow-rectangle {
+    height: 100px;
+    width: 100%;
+    background: yellow;
+    box-shadow: 5px 5px 5px 5px black;
+}
