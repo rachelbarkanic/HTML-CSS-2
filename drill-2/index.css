@@ -44,3 +44,17 @@
     background: yellow;
     box-shadow: 5px 5px 5px 5px black;
 }
+
+#third-div {
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px rgb(119, 114, 114);
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    padding-top: 125px;
+    color: blue;
+}
+
+.h1 {
+    text-align: center;
+}
